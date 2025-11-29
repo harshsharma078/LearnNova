@@ -18,3 +18,5 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+https://learn-nova-efcs.vercel.app/
