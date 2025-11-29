@@ -96,7 +96,7 @@ export default function ContactSection() {
                 onChange={handleChange}
                 required
                 className="w-full px-4 py-3 rounded-xl bg-gray-900 border border-gray-700 text-white shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
-                placeholder="xyz@gmial.com"
+                placeholder="xyz@gmail.com"
               />
             </div>
 
